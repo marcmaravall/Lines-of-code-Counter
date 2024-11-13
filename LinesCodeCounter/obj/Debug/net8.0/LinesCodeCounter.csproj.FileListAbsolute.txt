@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LinesCodeCounter\bin\Debug\net8.0\LinesCodeCounter.exe
+C:\Users\User\source\repos\LinesCodeCounter\bin\Debug\net8.0\LinesCodeCounter.deps.json
+C:\Users\User\source\repos\LinesCodeCounter\bin\Debug\net8.0\LinesCodeCounter.runtimeconfig.json
+C:\Users\User\source\repos\LinesCodeCounter\bin\Debug\net8.0\LinesCodeCounter.dll
+C:\Users\User\source\repos\LinesCodeCounter\bin\Debug\net8.0\LinesCodeCounter.pdb
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\LinesCodeCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\LinesCodeCounter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\LinesCodeCounter.AssemblyInfo.cs
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\LinesCodeCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\LinesCodeCounter.dll
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\refint\LinesCodeCounter.dll
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\LinesCodeCounter.pdb
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\LinesCodeCounter.genruntimeconfig.cache
+C:\Users\User\source\repos\LinesCodeCounter\obj\Debug\net8.0\ref\LinesCodeCounter.dll
